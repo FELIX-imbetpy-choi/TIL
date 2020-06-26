@@ -8,6 +8,9 @@ Felix Choi 가 오늘 새로 배운 것들을 다음 규칙으로  Commit 합니
 Github, Velog, 개인블로그 에 배운것을 업로드 해야겠다는 생각을 했습니다.  
 아직 까지 배울 것이 너무나 많다는 중압감에 눌렸을 때도 있었지만,  
 TIL 을 통해서 한발짝 또 한발짝 나아가고 있음을 확인하고 실행하려 시작합니다.    
+https://github.com/FELIX-imbetpy-choi  
+https://felix-imbetpy-choi.github.io/
+
 
 ## 작성규칙
 
