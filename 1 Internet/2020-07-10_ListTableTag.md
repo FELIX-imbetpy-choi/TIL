@@ -129,4 +129,4 @@
 
 # 참고📚
 [mozilla](https://developer.mozilla.org/ko/docs/Web/HTML)
-[poiemaweb](https://poiemaweb.com/html5-semantic-web)
+[poiemaweb](https://poiemaweb.com)
